@@ -1,5 +1,7 @@
 # Vwilight Vim theme
 
+![Vwilight-ruby](https://raw.githubusercontent.com/artanikin/vwilight/master/media/ruby.png)
+
 ## Installation
 
 1. Install [Vim-Plug](https://github.com/junegunn/vim-plug) manager.
