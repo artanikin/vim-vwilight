@@ -2,10 +2,12 @@
 
 ## Installation
 
-  1. Put the following line in your `.vimrc`:
+1. Install [Vim-Plug](https://github.com/junegunn/vim-plug) manager.
 
-    ```vim
-      Plug 'artanikin/vwilight'
-    ```
+2. Install Plugin
 
-  1. Reload `.vimrc` and `:PlugInstall` to install theme.
+    a. Put the following line in your .vimrc:
+
+      ```Plug 'artanikin/vwilight'```
+
+    b. Reload .vimrc and `:PlugInstall` to install plugin.
