@@ -1,6 +1,6 @@
 # Vwilight Vim theme
 
-![Vwilight-ruby](https://raw.githubusercontent.com/artanikin/vwilight/master/media/ruby.png)
+![Vwilight-ruby](https://raw.githubusercontent.com/artanikin/vim-vwilight/master/media/ruby.png)
 
 ## Installation
 
@@ -10,6 +10,6 @@
 
     a. Put the following line in your .vimrc:
 
-      ```Plug 'artanikin/vwilight'```
+      ```Plug 'artanikin/vim-vwilight'```
 
     b. Reload .vimrc and `:PlugInstall` to install plugin.
